@@ -33,14 +33,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="googlecloud logo"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/vivekmunda1609/vivekmunda1609/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
