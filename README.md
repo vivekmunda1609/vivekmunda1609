@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Vivek and I'm a BTech final year student from Institute of Technical Education & Research,Bhubaneswar.</h4>
+<h4 align="left">Hello & welcome to my profile.</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2000<br>📚 Learning Java Devlopment, Full Stack Devlopment and Cloud Computing<br>🎯 I want to become the humblest IT Specialist in the world.<br>🎲 Fun fact: I'm very unboring IRL.<br>Will try to plant to add more hurdles for the snake 👇</p>
+<p align="left">✨ Creating bugs since 2000<br>📚 Learning Java Devlopment, Full Stack Devlopment and Cloud Computing<br>🎯 I want to become the humblest IT Specialist in the world.<br>🎲 Fun fact: I'm very unboring IRL.<br></p>
 
 ###
 
